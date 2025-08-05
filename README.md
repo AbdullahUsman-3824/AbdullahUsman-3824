@@ -32,7 +32,7 @@ Here are a few of my highlighted repositories:
 - 🔐 **Random Password Generator**
 - 📑 **PDF Merger Tool** (Node.js backend)
 
-Check out my full project list at: [github.com/m-abdullah-dev?tab=repositories](https://github.com/m-abdullah-dev?tab=repositories)
+Check out my full project list at: [github.com/m-abdullah-dev?tab=repositories](https://github.com/AbdullahUsman-3824?tab=repositories)
 
 ---
 
