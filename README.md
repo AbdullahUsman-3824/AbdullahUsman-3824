@@ -1,18 +1,7 @@
 # 💫 About Me:
-## 👋 Hi there! I'm Muhammad Abdullah Usman
+### 👋 Hi there! I'm Muhammad Abdullah Usman
 
 I'm a **Full-Stack Developer** with a passion for building clean, scalable, and user-friendly web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and love turning complex problems into simple, elegant solutions.
-
----
-
-## 🚀 Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, Django
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Render, Postman, Firebase
-- **Currently Learning:**  Next.js (Advanced) | DevOps (Soon)
-
----
 
 ## 🧠 What I'm Working On
 
@@ -20,8 +9,6 @@ I'm a **Full-Stack Developer** with a passion for building clean, scalable, and 
 - 🧾 A scalable **legal form system** handling multiple form types in React
 - 🍽️ A simple but powerful **Café Management System** (MERN-based)
 - 🧩 Building reusable, modular, and clean UI components
-
----
 
 ## 📂 Featured Projects
 
