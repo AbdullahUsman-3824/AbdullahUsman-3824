@@ -1,55 +1,120 @@
-# 💫 About Me:
-### 👋 Hi there! I'm Muhammad Abdullah Usman
-
-I'm a **Full-Stack Developer** with a passion for building clean, scalable, and user-friendly web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and love turning complex problems into simple, elegant solutions.
-
-## 🧠 What I'm Working On
-
-- 📊 A full-stack **portfolio website** with a built-in **admin panel**
-- 🧾 A scalable **legal form system** handling multiple form types in React
-- 🍽️ A simple but powerful **Café Management System** (MERN-based)
-- 🧩 Building reusable, modular, and clean UI components
-
-<!-- ## 📂 Featured Projects
-
-Here are a few of my highlighted repositories:
-
-- 🎵 **Spotify-inspired Music Player**
-- 🕒 **Ultimate Clock App** (Digital/Analog with theme toggle)
-- 🎮 **Classic Games Collection** – Tic-Tac-Toe, Snake, Rock-Paper-Scissors
-- 🔐 **Random Password Generator**
-- 📑 **PDF Merger Tool** (Node.js backend)
-
-Check out my full project list at: [Github Repos](https://github.com/AbdullahUsman-3824?tab=repositories) -->
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewith.abdullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-usman-db3084) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullaasheikh3824@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AbdullahUsman-3824&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=AbdullahUsman-3824&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahUsman-3824&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbdullahUsman-3824&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AbdullahUsman-3824&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-usman-db3084/)
-- 🌐 [Portfolio](https://abdullahusman-3824.github.io/PersonalPortfolio/)
-- 📧 Email: `abdullaasheikh3824@gmail.com@gmail.com`
+<!-- HEADER ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00C7F7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Muhammad+Abdullah+Usman;🚀+Full+Stack+Developer;⚡+MERN+Stack+Specialist;💡+Clean+%26+Scalable+Code;🌱+Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
-> “Strive for progress, not perfection.”
+# 💫 About Me
+I'm a **Full-Stack Developer** with a passion for building **clean, scalable, and user-friendly web apps**.  
+I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and love transforming complex problems into elegant solutions.
 
-Thanks for stopping by! 😊
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,python,django,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,npm" />
+</p>
+
+### 🎨 Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+### 📦 Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,markdown" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbdullahUsman-3824&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" height="170" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahUsman-3824&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahUsman-3824&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+</p>
+
+
+
+---
+
+## 🌌 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdullahUsman-3824/AbdullahUsman-3824/output/profile-night-rainbow.svg" />
+</p>
+
+---
+## 🚀 Featured Projects  
+
+### [MeChat – Real-Time Chat App](https://github.com/AbdullahUsman-3824/ChatApp)
+A **real-time chat application** with Firebase Auth & Firestore — secure, fast, and mobile-friendly.  
+
+**Tech Stack:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/>
+</p>
+
+---
+
+### [Fiverr Clone](https://github.com/AbdullahUsman-3824/myFIverrCLone)
+A **freelance marketplace clone** inspired by Fiverr, built with **React + Django**.  
+
+**Tech Stack:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+</p>
+
+---
+
+### [FrontEndGalaxy](https://github.com/AbdullahUsman-3824/FrontEndGalaxy)
+A creative collection of **fun & practical mini-projects**: Calculator, Music Player, Ultimate Clock, Games, Password Generator, To-Do App & more.  
+
+**Tech Stack:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+</p>
+
+---
+
+### [Café Management System (CMS)](https://github.com/AbdullahUsman-3824/CMS)
+A **MERN-based café management system** with dashboard controls for orders, payments & table availability.  
+
+**Tech Stack:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+</p>
+
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/abdullah-usman3824" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:abdullahusman.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/AbdullahUsman-3824"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+⭐️ From [AbdullahUsman-3824](https://github.com/AbdullahUsman-3824)
