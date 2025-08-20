@@ -51,9 +51,10 @@ I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and 
 ---
 
 ## 🌌 3D Contribution Graph
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/AbdullahUsman-3824/AbdullahUsman-3824/output/profile-night-rainbow.svg" />
-</p>
+</p> -->
+![3D Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahUsman-3824&theme=github_dark)
 
 ---
 ## 🚀 Featured Projects  
