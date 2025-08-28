@@ -50,7 +50,7 @@ I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and 
 
 ---
 
-## 🌌 3D Contribution Graph
+## 🌌 Contribution Graph
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/AbdullahUsman-3824/AbdullahUsman-3824/output/profile-night-rainbow.svg" />
 </p> -->
